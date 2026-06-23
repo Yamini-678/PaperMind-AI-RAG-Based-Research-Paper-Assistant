@@ -68,15 +68,15 @@ Final Answer
 
 ### Research Paper Upload
 
-![Upload Interface](assets/upload.png)
+![Upload Interface](assests/upload.png)
 
 ### AI Question Answering
 
-![QA Interface](assets/qa.png)
+![QA Interface](assests/qa.png)
 
 ### Retrieved Context & Response
 
-![Response Interface](assets/result.png)
+![Response Interface](assests/result.png)
 ---
 
 ## 📂 Project Structure
