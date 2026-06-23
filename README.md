@@ -158,7 +158,7 @@ RESEARCH PAPER ASSISTANT
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/research-paper-assistant.git
+git clone https://github.com/Yamini-678/PaperMind-AI-RAG-Based-Research-Paper-Assistant
 ```
 
 Navigate to project folder:
